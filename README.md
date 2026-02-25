@@ -14,7 +14,7 @@
 
 **Transforming Sugar Mills with Frugal Edge AI**
 
-*Developed with ❤️ by Team DeTechz*
+*Developed with ❤️ by Team DeTechz led by ANURAG KUMAR VERMA*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)]()
